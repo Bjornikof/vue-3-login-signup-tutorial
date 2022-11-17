@@ -66,6 +66,7 @@ main {
   width: 35%;
   height: 75%;
   min-width: 275px;
+  min-height: 450px;
 }
 
 </style>
